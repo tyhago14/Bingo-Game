@@ -3,11 +3,11 @@
 A fully functional **console-based Bingo game** built in **C++17**. This project simulates a Bingo experience with card generation, ball drawing, and prize detection, all via a command-line interface.  
 
 ## 📌 Features  
-✅ Randomized **Bingo card generation** (1-60, no duplicates)  
-✅ **Ball drawing system** with prize pattern detection  
-✅ **Custom data protocol** for game state transmission  
-✅ **Shared library integration** using `dlopen` for modular architecture  
-✅ **Extra balls** feature for enhanced gameplay  
+- Randomized **Bingo card generation** (1-60, no duplicates)  
+- **Ball drawing system** with prize pattern detection  
+- **Custom data protocol** for game state transmission  
+- **Shared library integration** using `dlopen` for modular architecture  
+- **Extra balls** feature for enhanced gameplay  
 
 ## 🛠️ Technologies Used  
 - **C++17**  
@@ -16,9 +16,11 @@ A fully functional **console-based Bingo game** built in **C++17**. This project
 
 ## 🎮 Pattern of prizes
 ```sh
-    x x x x x          * * * * *
-    - x x x -          - - * - -
-    - - x - -          * * * * *
+    x x x x x                      x x x x x
+    - x x x -                      - - x - -
+    - - x - -                      x x x x x
+
+First prize 10 coins           Second prize 50 coins
 ```  
 ## 📸 Screenshots  
 (Add your gameplay screenshots here)  
