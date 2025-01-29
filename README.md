@@ -15,7 +15,11 @@ A fully functional **console-based Bingo game** built in **C++17**. This project
 - **Dynamic Libraries (`dlopen`, shared objects)**  
 
 ## 🎮 Pattern of prizes
-
+```sh
+    x x x x x          * * * * *
+    - x x x -          - - * - -
+    - - x - -          * * * * *
+```  
 ## 📸 Screenshots  
 (Add your gameplay screenshots here)  
 
