@@ -19,15 +19,15 @@ A fully functional **console-based Bingo game** built in **C++17**. This project
 ## 📸 Screenshots  
 (Add your gameplay screenshots here)  
 
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)  
+![Screenshot 1](preview/1.png)  
+![Screenshot 2](preview/2.png)  
+![Screenshot 3](preview/3.png)  
 
 ## 🚀 How to Run  
 
 ### 1️⃣ Clone the repository  
 ```sh
 git clone https://github.com/tyhago14/Bingo-Game.git
-cd your-repo
 ```  
 
 ### 2️⃣ Compile and run the project  
@@ -35,7 +35,7 @@ cd your-repo
 ./build-and-run.sh
 ```  
 
-### 3️⃣ Run the game  
+### 3️⃣ Just Run the game  
 ```sh
 ./run.sh
 ```  
