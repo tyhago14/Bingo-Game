@@ -22,8 +22,7 @@ A fully functional **console-based Bingo game** built in **C++17**. This project
 
 First prize 10 coins           Second prize 50 coins
 ```  
-## 📸 Screenshots  
-(Add your gameplay screenshots here)  
+## 📸 Screenshots   
 
 ![Screenshot 1](preview/1.png)  
 ![Screenshot 2](preview/2.png)  
